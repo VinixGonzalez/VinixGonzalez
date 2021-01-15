@@ -1,5 +1,5 @@
 
-# Hello! 🙋‍♂️ 
+# Welcome! 🙋‍♂️ 
 
 Here you will find lots of projects made in Javascript (ReactJs and NextJs), NodeJs and .NET Core ❤
 
