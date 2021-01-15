@@ -1,7 +1,7 @@
 
 # Hello! 🙋‍♂️ 
 
-Here you will find lots of projects made in Javascript and .Net ❤
+Here you will find lots of projects made in Javascript (ReactJs and NextJs) and .Net Core ❤
 
 Feel free to use all the examples in this repository 🧠.
 
