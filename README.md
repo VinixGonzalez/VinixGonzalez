@@ -5,4 +5,6 @@ Here you'll find lots of projects made in Javascript - ReactJs, NextJs, React Na
 
 Feel free to use all the examples in this repository 🧠
 
-[My Portfolio](https://viniciusgonzalez.com) 🌎
+[My Portfolio](https://vinigonzalez.dev) 🌎
+
+[My Blog](https://vinigonzalez.dev) 💻
